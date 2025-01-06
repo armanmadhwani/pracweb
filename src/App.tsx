@@ -13,7 +13,7 @@ function App() {
       {/* Hero Video Section */}
       <div className="w-full max-w-[1920px]">
         <VideoSection
-          src="https://assets.mixkit.co/videos/preview/mixkit-set-of-plateaus-seen-from-the-heights-in-a-sunset-26070-large.mp4"
+          src="compilated.mp4"
           aspectRatio="16:9"
           className="h-screen"
         />
