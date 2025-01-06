@@ -13,7 +13,7 @@ function App() {
       {/* Hero Video Section */}
       <div className="w-full max-w-[1920px]">
         <VideoSection
-          src="compilated.mp4"
+          src="./compilated.mp4"
           aspectRatio="16:9"
           className="h-screen"
         />
