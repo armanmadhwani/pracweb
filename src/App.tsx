@@ -30,7 +30,7 @@ function App() {
       {/* Second Video Section */}
       <div className="w-full max-w-[1920px]">
         <VideoSection
-          src="https://assets.mixkit.co/videos/preview/mixkit-young-woman-vlogger-recording-camera-9089-large.mp4"
+          src="compilated.mp4"
           aspectRatio="16:9"
         />
       </div>
