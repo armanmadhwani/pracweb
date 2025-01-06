@@ -28,7 +28,7 @@ export function VideoSection({ src, aspectRatio, className = '' }: VideoSectionP
         playsInline
         className="w-full h-full object-cover"
       >
-        <source src="./compilated.mp4" type="video/mp4" />
+        <source src={src} type="video/mp4" />
       </video>
     </motion.div>
   );
